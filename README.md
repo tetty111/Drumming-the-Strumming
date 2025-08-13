@@ -1,2 +1,3 @@
-# Drumming-the-Strumming
-Drums and drumming the strumming of a guitar
+# Strumming-the-Drumming
+A personal training repo — blending code practice with my love for music.
+
